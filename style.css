@@ -1,0 +1,12 @@
+body {
+    font-size: medium;
+}
+
+.nav-link{
+    cursor: pointer;
+}
+
+.nav-link:active,
+.nav-link:hover{
+    color: red !important;
+}
